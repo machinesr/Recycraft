@@ -29,21 +29,6 @@
 - **Vercel** – Deployment platform for fast, serverless hosting
 - **Railway** – Backend deployment and infrastructure management platform
 
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/recycraft.git
-cd recycraft
-npm install
-npm start
-```
-
-```bash
-cd server
-npm install
-node server.js
-```
-
 ## 🎥 Demo
 
 👉 [Click here to watch the RecyCraft demo](https://drive.google.com/file/d/1S7Obg85MaJQGSjJrueqKETycPlPmDHzC/view)
