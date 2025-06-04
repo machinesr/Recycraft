@@ -64,3 +64,11 @@ Got ideas or suggestions? We'd love to hear from you!
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## 📎 About This Repository
+
+> ⚠️ **Disclaimer:** This is a alternate copy of the **RecyCraft** project.  
+> The original repository can be found at:  
+> 🔗 [github.com/joshualarido/RecyCraft](https://github.com/joshualarido/RecyCraft)
